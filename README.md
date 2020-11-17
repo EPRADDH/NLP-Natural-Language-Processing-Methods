@@ -24,4 +24,15 @@ Functions for Processing Text with keras
    4.9 Train / Test Split
    
    4.10 Training the Model
+   
+   4.11 save the model to file 
+   
+   4.12 Generating New Text
+   
+   4.13 Grab a random seed sequence
+    
+    Generating New Text to test the model
+   
+   
+   
   
